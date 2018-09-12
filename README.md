@@ -1,2 +1,2 @@
 # testApp4
-for local git commands
+for local git commands that suck
